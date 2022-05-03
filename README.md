@@ -25,9 +25,15 @@ react-navigation/stack
 
 npm install@react-navigation/stack
 
+<img src ='screenshots/IMG_7127.PNG' width='400'>
+<img src ='screenshots/IMG_7128.PNG' width='400'>
+<img src ='screenshots/IMG_7118.PNG' width='400'>
+<img src ='screenshots/IMG_7123.PNG' width='400'>
+<img src ='screenshots/IMG_7124.PNG' width='400'>
+
 
  
- 
+
 
 
 
