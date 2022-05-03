@@ -5,7 +5,7 @@ Packages downloaded and applied for this project include:
 
 react-native-vector-icons
 
-npm i react-native-vector-items,
+npm i react-native-vector-items
 
 //
 
